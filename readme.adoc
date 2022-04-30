@@ -1,0 +1,3 @@
+= Javascript
+
+The repository includes some examples of Javascript.
